@@ -1,8 +1,10 @@
 <div align="center">
- ### Hi, I'm Oumaima
+ <h3> Hi, I'm Oumaima </h3>
 </div>
 <div align="center">
  - 🔭 I'm currently working on improving my skills as a software engineer. 
+</div>
+<div align="center">
  - 🌱 I’m currently curious about **Mobile Development** and **UI/UX Design**.
 </div>
 
