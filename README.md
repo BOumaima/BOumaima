@@ -5,7 +5,7 @@
 
 ## Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BOumaima&show_icons=true&theme=transparent)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=BOumaima&show_icons=true&theme=transparent)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=BOumaima&theme=transparent)  
 
 
  
