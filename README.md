@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Oumaima
+### Hi, I'm Oumaima
 
 - 🔭 I'm currently working on improving my skills as a software engineer. 
 - 🌱 I’m currently curious about **Mobile Development** and **UI/UX Design**.
