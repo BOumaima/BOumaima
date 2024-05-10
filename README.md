@@ -1,5 +1,5 @@
-<div align="center"> <h3>Hi, I'm Oumaima</h3> </div>
- - 🔭 I'm currently working on improving my skills as a software engineer. </br> 
+# Hi, I'm Oumaima
+ - 🔭 I'm currently working on improving my skills as a software engineer.
  - 🌱 I’m currently curious about <b>Mobile Development</b> and <b>UI/UX Design</b>.
 
 ## Languages and Tools
